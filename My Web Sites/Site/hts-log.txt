@@ -1,0 +1,17 @@
+HTTrack3.48-19+htsswf+htsjava launched on Mon, 08 Dec 2014 18:55:35 at http://letsdance.ho.ua/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://letsdance.ho.ua/ -O1 "C:\My Web Sites\Site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:55:35	Warning: 	Note: due to letsdance.ho.ua remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin, /forum, /phorum, /phpbb, /phpBB (see in the options to disable this)
+19:11:07	Error: 	"Not Found" (404) at link letsdance.ho.ua/astratop=1; path=/ (from letsdance.ho.ua/)
+19:11:11	Error: 	"Not Found" (404) at link letsdance.ho.ua/highslide/images/large/006.jpg (from letsdance.ho.ua/3.html)
+19:11:11	Error: 	"Not Found" (404) at link letsdance.ho.ua/highslide/images/thumbs/006.jpg (from letsdance.ho.ua/3.html)
+19:24:18	Warning: 	File not parsed, looks like binary: letsdance.ho.ua/highslide/images/large/..jpg
+19:24:18	Warning: 	File not parsed, looks like binary: letsdance.ho.ua/highslide/images/thumbs/..jpg
+
+HTTrack Website Copier/3.48-19 mirror complete in 28 minutes 47 seconds : 998 links scanned, 994 files written (42718166 bytes overall) [43015295 bytes received at 24907 bytes/sec], 1.8 requests per connection
+(3 errors, 3 warnings, 0 messages)
