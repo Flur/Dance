@@ -1,0 +1,38 @@
+.nav-justified > li > a {
+  font-weight: normal;
+  color: black;
+}
+
+.background {
+  /*background-image: url("../img/sativa.png");*/
+  background-color: #f7f7f7;
+  padding-top: 20px;
+}
+
+body {
+  padding-top: 0;	
+}
+
+.background-footer {
+  /*background-image: url("../img/sativa.png");*/
+  background-color: #f7f7f7;
+  margin-top: 50px;
+}
+
+.footer {
+  margin-top: 0;	
+}
+
+.balet {
+  color: white;
+  background-color: black;
+  background-image: url("../img/ballet.png");
+  background-size: 1280px 600px;
+  background-repeat: no-repeat;
+  background-position: right top;
+  padding-bottom: 200px;
+}
+
+.container .jumbotron {
+  padding-left: 0;	
+}
